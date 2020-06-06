@@ -13,6 +13,7 @@
 ![DashBoard](https://i.imgur.com/BU9r4OZ.jpg)
 
 # Groot Website Dashbaord Options
+- [x] **Invite Manager System : Adapted from InviteManager BOT**
 - [x] **New Members Roles**
 - [x] **Message of the Day**
 - [x] **Custom API Keys**
