@@ -113,6 +113,34 @@
 
 
 # Available Commands
+**`There are only two systems with default prefix`**
+**`You can change them through the basic parfex then help`**
+
+
+Command | Category Self-Role | Target | Default Prefix r!
+------------ | ------------- | ------------- | -------------
+**rl!help** | Self-Role |• the creation new reaction role.|r!
+**r!new** |Self-Role |• starts the creation new reaction role.|r!
+**r!abort** |Self-Role|• aborts creation process for new reaction role.|r!
+**r!edit** |Self-Role|• edits an existing reaction-role.|r!
+**r!colour**|Self-Role |• changes the colour of the embeds.|r!
+**r!rm-embed** |Self-Role|• suppresses embed of existing reaction-roles.|r!
+**r!admin adds**|Self-Role |• the mentioned role to the list of admins.|r!
+**r!rm-admin** |Self-Role|• removes the mentioned role from list admins.|r!
+**r!adminlist** |Self-Role|• lists the current admins on the server|r!
+
+Command | Category music | Target | Default Prefix 
+------------ | ------------- | ------------- | -------------
+**+lyrics** |music|• Show lyrics to the currently-playing song |+
+**+nowplaying** |music|• shows the song that is currently playing|+
+**+play** |music|• plays the provided song|+
+**+playlists** |music|• shows the available playlists|+
+**+queue** |music|• shows the current queue|+
+**+remove** |music|• removes a song from the queue|+
+**+search** |music|• searches Youtube for a provided query|+
+**+scsearch** |music|• searches Soundcloud provided query|+
+**+shuffle** |music|• shuffles songs you have added|+
+**+skip** |music|• votes to skip the current song|+
 
 Command | Category FUN | Target
 ------------ | ------------- | -------------
