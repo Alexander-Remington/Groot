@@ -13,20 +13,26 @@
 ![DashBoard](https://i.imgur.com/BU9r4OZ.jpg)
 
 # Groot Website Dashbaord Options
-- [x] **Invite Manager System : Adapted from InviteManager BOT Prefix Is >`.`**
-- [x] **New Members Roles**
-- [x] **Message of the Day**
-- [x] **Custom API Keys**
-- [x] **Status Messages**
-- [x] **Member Ranks**
-- [x] **Groot Points**
-- [x] **Extensions**
-- [x] **Strikes**
-- [x] **Filters**
-- [x] **Roles**
-- [x] **RSS Feeds**
-- [x] **Streamers**
-- [x] **Auto-Translate Messages**
+- [✓] **Self-Role** [!Docs Click here](https://github.com/Alexander-Remington/Groot/wiki/Self-Role)
+- [✓] **Moderation** [!Docs Click here](https://github.com/Alexander-Remington/Groot/wiki/Commands)
+- [✓] **Giveaway [!Docs Click here](https://github.com/Alexander-Remington/Groot/wiki/Commands#giveaway)** 
+- [✓] **Extensions [!Docs Click here](https://github.com/Alexander-Remington/Groot/wiki/Extensions)**
+- [✓] **Status Messages [!Docs Click here](https://github.com/Alexander-Remington/Groot/wiki/Commands)**
+- [✓] **AFK [!Docs Click here](https://github.com/Alexander-Remington/Groot/wiki/Commands#afk)**
+- [✓] **Music HelpMenu**
+- [✓] **Google Search [!Docs Click here](https://github.com/Alexander-Remington/Groot/wiki/Commands#google)**
+- [✓] **YouTube Search [!Docs Click here](https://github.com/Alexander-Remington/Groot/wiki/Commands#youtube)**
+- [✓] **New Members Roles [!Docs Click here](https://github.com/Alexander-Remington/Groot/wiki/Commands)**
+- [✓] **Message of the Day [!Docs Click here](https://github.com/Alexander-Remington/Groot/wiki/Commands)**
+- [✓] **Custom API Keys [!Docs Click here](https://github.com/Alexander-Remington/Groot/wiki/Commands)**
+- [✓] **Member Ranks [!Docs Click here](https://github.com/Alexander-Remington/Groot/wiki/Commands)**
+- [✓] **Groot Points [!Docs Click here](https://github.com/Alexander-Remington/Groot/wiki/Commands)**
+- [✓] **Strikes [!Docs Click here](https://github.com/Alexander-Remington/Groot/wiki/Commands)**
+- [✓] **Filters [!Docs Click here](https://github.com/Alexander-Remington/Groot/wiki/Commands)**
+- [✓] **Roles [!Docs Click here](https://github.com/Alexander-Remington/Groot/wiki/Commands)**
+- [✓] **RSS Feeds [!Docs Click here](https://github.com/Alexander-Remington/Groot/wiki/Commands)**
+- [✓] **Streamers [!Docs Click here](https://github.com/Alexander-Remington/Groot/wiki/Commands)**
+- [✓] **Auto-Translate Messages [!Docs Click here](https://github.com/Alexander-Remington/Groot/wiki/Commands)**
 
 * **New Members Roles :**
   * New members will be automatically assigned the selected roles.
