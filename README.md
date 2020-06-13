@@ -34,6 +34,13 @@
 - [✓] **Streamers [!Docs Click here](https://github.com/Alexander-Remington/Groot/wiki/Commands)**
 - [✓] **Auto-Translate Messages [!Docs Click here](https://github.com/Alexander-Remington/Groot/wiki/Commands)**
 
+-
+
+* **Self-Roles**
+  * Create multiple custom embedded messages with custom reactions and roles
+  * Automatically assign/remove roles to users when they select/deselect a certain reaction
+  * Easy installation setup
+
 * **New Members Roles :**
   * New members will be automatically assigned the selected roles.
 
