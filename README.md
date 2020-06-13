@@ -13,26 +13,26 @@
 ![DashBoard](https://i.imgur.com/BU9r4OZ.jpg)
 
 # Groot Website Dashbaord Options
-- [✓] **Self-Role** [!Docs Click here](https://github.com/Alexander-Remington/Groot/wiki/Self-Role)
-- [✓] **Moderation** [!Docs Click here](https://github.com/Alexander-Remington/Groot/wiki/Commands)
-- [✓] **Giveaway [!Docs Click here](https://github.com/Alexander-Remington/Groot/wiki/Commands#giveaway)** 
-- [✓] **Extensions [!Docs Click here](https://github.com/Alexander-Remington/Groot/wiki/Extensions)**
-- [✓] **Status Messages [!Docs Click here](https://github.com/Alexander-Remington/Groot/wiki/Commands)**
-- [✓] **AFK [!Docs Click here](https://github.com/Alexander-Remington/Groot/wiki/Commands#afk)**
-- [✓] **Music HelpMenu**
-- [✓] **Google Search [!Docs Click here](https://github.com/Alexander-Remington/Groot/wiki/Commands#google)**
-- [✓] **YouTube Search [!Docs Click here](https://github.com/Alexander-Remington/Groot/wiki/Commands#youtube)**
-- [✓] **New Members Roles [!Docs Click here](https://github.com/Alexander-Remington/Groot/wiki/Commands)**
-- [✓] **Message of the Day [!Docs Click here](https://github.com/Alexander-Remington/Groot/wiki/Commands)**
-- [✓] **Custom API Keys [!Docs Click here](https://github.com/Alexander-Remington/Groot/wiki/Commands)**
-- [✓] **Member Ranks [!Docs Click here](https://github.com/Alexander-Remington/Groot/wiki/Commands)**
-- [✓] **Groot Points [!Docs Click here](https://github.com/Alexander-Remington/Groot/wiki/Commands)**
-- [✓] **Strikes [!Docs Click here](https://github.com/Alexander-Remington/Groot/wiki/Commands)**
-- [✓] **Filters [!Docs Click here](https://github.com/Alexander-Remington/Groot/wiki/Commands)**
-- [✓] **Roles [!Docs Click here](https://github.com/Alexander-Remington/Groot/wiki/Commands)**
-- [✓] **RSS Feeds [!Docs Click here](https://github.com/Alexander-Remington/Groot/wiki/Commands)**
-- [✓] **Streamers [!Docs Click here](https://github.com/Alexander-Remington/Groot/wiki/Commands)**
-- [✓] **Auto-Translate Messages [!Docs Click here](https://github.com/Alexander-Remington/Groot/wiki/Commands)**
+- [x] **Self-Role** [!Docs Click here](https://github.com/Alexander-Remington/Groot/wiki/Self-Role)
+- [x] **Moderation** [!Docs Click here](https://github.com/Alexander-Remington/Groot/wiki/Commands)
+- [x] **Giveaway [!Docs Click here](https://github.com/Alexander-Remington/Groot/wiki/Commands#giveaway)** 
+- [x] **Extensions [!Docs Click here](https://github.com/Alexander-Remington/Groot/wiki/Extensions)**
+- [x] **Status Messages [!Docs Click here](https://github.com/Alexander-Remington/Groot/wiki/Commands)**
+- [x] **AFK [!Docs Click here](https://github.com/Alexander-Remington/Groot/wiki/Commands#afk)**
+- [x] **Music HelpMenu**
+- [x] **Google Search [!Docs Click here](https://github.com/Alexander-Remington/Groot/wiki/Commands#google)**
+- [x] **YouTube Search [!Docs Click here](https://github.com/Alexander-Remington/Groot/wiki/Commands#youtube)**
+- [X] **New Members Roles [!Docs Click here](https://github.com/Alexander-Remington/Groot/wiki/Commands)**
+- [x] **Message of the Day [!Docs Click here](https://github.com/Alexander-Remington/Groot/wiki/Commands)**
+- [x] **Custom API Keys [!Docs Click here](https://github.com/Alexander-Remington/Groot/wiki/Commands)**
+- [x] **Member Ranks [!Docs Click here](https://github.com/Alexander-Remington/Groot/wiki/Commands)**
+- [x] **Groot Points [!Docs Click here](https://github.com/Alexander-Remington/Groot/wiki/Commands)**
+- [x] **Strikes [!Docs Click here](https://github.com/Alexander-Remington/Groot/wiki/Commands)**
+- [x] **Filters [!Docs Click here](https://github.com/Alexander-Remington/Groot/wiki/Commands)**
+- [x] **Roles [!Docs Click here](https://github.com/Alexander-Remington/Groot/wiki/Commands)**
+- [x] **RSS Feeds [!Docs Click here](https://github.com/Alexander-Remington/Groot/wiki/Commands)**
+- [x] **Streamers [!Docs Click here](https://github.com/Alexander-Remington/Groot/wiki/Commands)**
+- [x] **Auto-Translate Messages [!Docs Click here](https://github.com/Alexander-Remington/Groot/wiki/Commands)**
 
 -
 
